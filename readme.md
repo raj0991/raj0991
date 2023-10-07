@@ -66,14 +66,13 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
         <img src="https://media.giphy.com/media/35TxwQmSiwl5CDzJeB/giphy.gif" width="100" height="60" title="Django">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 20px;" colspan="1">
       <a href="#">
         <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e47i9lray9y3zu2mjo1v07trpgny9e5pnlnpby6uzhe&ep=v1_gifs_search&rid=200.webp&ct=g" width="100" height="60" title="Flask">
       </a>
     </td>
   </tr>
+
 </table>
 
 ### Connect with me:
