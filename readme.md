@@ -22,29 +22,29 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px;" colspan="3">
+    <td align="center" style="padding: 20px;" colspan="2">
       <a href="#">
         <img src="https://media.tenor.com/tR-AbKrVTP4AAAAd/gudetama-slap.gif" width="100" height="60" title="Nest.js">
       </a>
     </td>
-    <td align="center" style="padding: 20px;" colspan="3">
+    <td align="center" style="padding: 20px;" colspan="2">
       <a href="#">
         <img src="https://media.tenor.com/zENJrVyTzdUAAAAM/sdfgsdfg-script-alert.gif" width="100" height="60" title="TypeScript">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px;" colspan="2">
+    <td align="center" style="padding: 20px;" colspan="1">
       <a href="#">
         <img src="https://media.tenor.com/GYOSIrYyczcAAAAM/elian-javascript.gif" width="100" height="60" title="JavaScript">
       </a>
     </td>
-    <td align="center" style="padding: 20px;" colspan="2">
+    <td align="center" style="padding: 20px;" colspan="1">
       <a href="#">
         <img src="https://media.tenor.com/NraeP-J41AAAAAAM/bro-code-console.gif" width="100" height="60" title="HTML">
       </a>
     </td>
-    <td align="center" style="padding: 20px;" colspan="2">
+    <td align="center" style="padding: 20px;" colspan="1">
       <a href="#">
         <img src="https://media.tenor.com/57w9du3NrV0AAAAM/css-html.gif" width="100" height="60" title="CSS">
       </a>
@@ -66,6 +66,8 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
         <img src="https://media.giphy.com/media/35TxwQmSiwl5CDzJeB/giphy.gif" width="100" height="60" title="Django">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 20px;" colspan="1">
       <a href="#">
         <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e47i9lray9y3zu2mjo1v07trpgny9e5pnlnpby6uzhe&ep=v1_gifs_search&rid=200.webp&ct=g" width="100" height="60" title="Flask">
@@ -73,7 +75,6 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
     </td>
   </tr>
 </table>
-
 
 ### Connect with me:
 
