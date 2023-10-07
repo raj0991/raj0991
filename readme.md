@@ -15,15 +15,15 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
 ## Skills
 
 
-<p align="center">
-* <img src="https://media.tenor.com/gsrEG5HF-uQAAAAd/omori-sunny.gif" width="80">     
+<div align="center">
+* <img src="https://media.tenor.com/gsrEG5HF-uQAAAAd/omori-sunny.gif" width="80">
 * <img src="https://media.tenor.com/tR-AbKrVTP4AAAAd/gudetama-slap.gif" width="80">     
 * <img src="https://media.tenor.com/zENJrVyTzdUAAAAM/sdfgsdfg-script-alert.gif" width="80">     
 * <img src="https://media.tenor.com/GYOSIrYyczcAAAAM/elian-javascript.gif" width="80">     
 * <img src="https://media.tenor.com/NraeP-J41AAAAAAM/bro-code-console.gif" width="80">     
 * <img src="https://media.tenor.com/57w9du3NrV0AAAAM/css-html.gif" width="80">     
 * :<img src="https://media.tenor.com/gO9Q5yAS5jsAAAAM/3.gif" width="80">     
-</p>
+</div>
 
 
 
