@@ -31,6 +31,7 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
 <p align="center">
 * HTML <img src="https://media.tenor.com/NraeP-J41AAAAAAM/bro-code-console.gif" width="30">
 </p>
+
 * CSS <img src="https://media.tenor.com/57w9du3NrV0AAAAM/css-html.gif" width="30">
 
 <p align="center">
