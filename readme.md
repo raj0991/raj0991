@@ -36,8 +36,6 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
         <img src="https://media.tenor.com/GYOSIrYyczcAAAAM/elian-javascript.gif" width="100" height="60" title="JavaScript">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 20px;">
       <a href="#">
         <img src="https://media.tenor.com/NraeP-J41AAAAAAM/bro-code-console.gif" width="100" height="60" title="HTML">
@@ -54,6 +52,7 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
       </a>
     </td>
   </tr>
+
 </table>
 
 
