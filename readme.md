@@ -16,13 +16,13 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
 
 
 <div align="center">
-* <img src="https://media.tenor.com/gsrEG5HF-uQAAAAd/omori-sunny.gif" width="100">
-* <img src="https://media.tenor.com/tR-AbKrVTP4AAAAd/gudetama-slap.gif" width="100">     
-* <img src="https://media.tenor.com/zENJrVyTzdUAAAAM/sdfgsdfg-script-alert.gif" width="100">     
-* <img src="https://media.tenor.com/GYOSIrYyczcAAAAM/elian-javascript.gif" width="100">     
-* <img src="https://media.tenor.com/NraeP-J41AAAAAAM/bro-code-console.gif" width="100">     
-* <img src="https://media.tenor.com/57w9du3NrV0AAAAM/css-html.gif" width="100">     
-* :<img src="https://media.tenor.com/gO9Q5yAS5jsAAAAM/3.gif" width="100">     
+  <img src="https://media.tenor.com/gsrEG5HF-uQAAAAd/omori-sunny.gif" width="100" title="Nodejs">
+  <img src="https://media.tenor.com/tR-AbKrVTP4AAAAd/gudetama-slap.gif" width="100" title="NestJs">
+  <img src="https://media.tenor.com/zENJrVyTzdUAAAAM/sdfgsdfg-script-alert.gif" width="100" title="Typescript">
+  <img src="https://media.tenor.com/GYOSIrYyczcAAAAM/elian-javascript.gif" width="100" title="Javascript">
+  <img src="https://media.tenor.com/NraeP-J41AAAAAAM/bro-code-console.gif" width="100" title="HTML">
+  <img src="https://media.tenor.com/57w9du3NrV0AAAAM/css-html.gif" width="100" title="CSS">
+  <img src="https://media.tenor.com/gO9Q5yAS5jsAAAAM/3.gif" width="100" title="React">
 </div>
 
 
