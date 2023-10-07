@@ -7,9 +7,10 @@
 I am a MERN Stack developer with 2 years of experience. I am passionate about building scalable and reliable web applications. I have a strong understanding of React & Node.js core concepts, as well as popular React 
  & Node.js frameworks and libraries.
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MERN Developer
+ <p align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MERN,Spring boot,Django,Flask Developer
 
-
+   
 ## Skills
 
 * Node.js <img src="https://media.tenor.com/gsrEG5HF-uQAAAAd/omori-sunny.gif" width="30">
@@ -20,6 +21,10 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
 * HTML <img src="https://media.tenor.com/NraeP-J41AAAAAAM/bro-code-console.gif" width="30">
 * CSS <img src="https://media.tenor.com/57w9du3NrV0AAAAM/css-html.gif" width="30">
 * React :<img src="https://media.tenor.com/gO9Q5yAS5jsAAAAM/3.gif" width="30">
+</p>
+
+
+
 
 
 
