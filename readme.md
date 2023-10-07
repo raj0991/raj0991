@@ -55,10 +55,9 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
 
 </table>
 
-
-
-
 ### Connect with me:
+
+<p align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -76,13 +75,15 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
 [steam]: https://steamcommunity.com/profiles/76561198371861269/
 [discord]: https://discordapp.com/users/dahivada
 
-
+</p>
 
 <br />
 
 ---
 
 ### Languages and Tools:
+
+<p align="center">
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -112,8 +113,4 @@ I am a MERN Stack developer with 2 years of experience. I am passionate about bu
 [terminal]: https://en.wikipedia.org/wiki/Command-line_interface
 [typescript]: https://www.typescriptlang.org/
 
-
-
-
-
-
+</p>
