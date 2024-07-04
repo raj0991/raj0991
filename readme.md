@@ -1,10 +1,10 @@
 ## About me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif" width="300">
-</p>
+//<p align="center">
+  //<img src="https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif" width="300">
+//</p>
 
-I am a MERN Stack developer with 2 years of experience. I am passionate about building scalable and reliable web applications. I have a strong understanding of React & Node.js core concepts, as well as popular React 
+I am a MERN Stack developer with 3 years of experience. I am passionate about building scalable and reliable web applications. I have a strong understanding of React & Node.js core concepts, as well as popular React 
  & Node.js frameworks and libraries.
 
  <p align="center">
