@@ -1,6 +1,7 @@
 ## About me
 
-I am a MERN Stack developer with 3 years of experience. I am passionate about building scalable and reliable web applications. I have a strong understanding of React & Node.js core concepts, as well as popular React 
+I am a **MERN Stack developer** with **${new Date().getFullYear() - 2021} years** of experience in building scalable and reliable web applications. I have a strong understanding of React & Node.js core concepts, as well as popular React & Node.js frameworks and libraries.
+
  & Node.js frameworks and libraries.
 
  <p align="center">
