@@ -1,6 +1,6 @@
 ## About me
 
-I am a **MERN Stack developer** with **${new Date().getFullYear() - 2021} years** of experience in building scalable and reliable web applications. I have a strong understanding of React & Node.js core concepts, as well as popular React & Node.js frameworks and libraries.
+I am a **MERN Stack developer** from ** year 2021 ** & have experience in building scalable and reliable web applications. I have a strong understanding of React & Node.js core concepts, as well as popular React & Node.js frameworks and libraries.
 
  & Node.js frameworks and libraries.
 
