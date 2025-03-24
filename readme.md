@@ -80,6 +80,9 @@ I am a **MERN Stack developer** from **year 2021** & have experience in building
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 
+
+### Misc:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj0991&show_icons=true&locale=en&layout=compact" alt="Rituraj Sharma" /></p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=raj0991&count_private=true&show_icons=true&title_color=333&icon_color=333)
