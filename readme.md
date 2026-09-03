@@ -1,113 +1,64 @@
-## About me
-
-I am a **MERN Stack developer** from **year 2021** & have experience in building scalable and reliable web applications. I have a strong understanding of React & Node.js core concepts, as well as popular React & Node.js frameworks and libraries.
-
- & Node.js frameworks and libraries.
-
- <p align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MERNS,Spring boot,Django,Flask <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-</p>
-   
-## Skills
-
-<div style="max-width: 600px; margin: 0 auto;">
-  <div align="center">
-    <img src="https://media.tenor.com/gsrEG5HF-uQAAAAd/omori-sunny.gif" width="100" height="60" title="Node.js" style="border: 1.2px solid #888; margin: 2px;">
-  </div>
-
-  <div align="center">
-    <img src="https://media.tenor.com/tR-AbKrVTP4AAAAd/gudetama-slap.gif" width="100" height="60" title="Nest.js" style="border: 1.2px solid #888; margin: 2px;">
-    <img src="https://media.tenor.com/zENJrVyTzdUAAAAM/sdfgsdfg-script-alert.gif" width="100" height="60" title="TypeScript" style="border: 1.2px solid #888; margin: 2px;">
-  </div>
-
-  <div align="center">
-    <img src="https://media.tenor.com/GYOSIrYyczcAAAAM/elian-javascript.gif" width="100" height="60" title="JavaScript" style="border: 1.2px solid #888; margin: 2px;">
-    <img src="https://media.tenor.com/NraeP-J41AAAAAAM/bro-code-console.gif" width="100" height="60" title="HTML" style="border: 1.2px solid #888; margin: 2px;">
-    <img src="https://media.tenor.com/57w9du3NrV0AAAAM/css-html.gif" width="100" height="60" title="CSS" style="border: 1.2px solid #888; margin: 2px;">
-  </div>
-
-  <div align="center">
-    <img src="https://media.tenor.com/gO9Q5yAS5jsAAAAM/3.gif" width="100" height="60" title="React" style="border: 1.2px solid #888; margin: 2px;">
-    <img src="https://media1.giphy.com/media/mEhPCIDM2bTrl0XKTG/200w.webp?cid=ecf05e477aief25bc949nqra6q5f3laaclwynqq5gssyli3w&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100" height="60" title="Java Spring boot" style="border: 1.2px solid #888; margin: 2px;">
-    <img src="https://media.giphy.com/media/35TxwQmSiwl5CDzJeB/giphy.gif" width="100" height="60" title="Django" style="border: 1.2px solid #888; margin: 2px;">
-    <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e47i9lray9y3zu2mjo1v07trpgny9e5pnlnpby6uzhe&ep=v1_gifs_search&rid=200.webp&ct=g" width="100" height="60" title="Flask" style="border: 1.2px solid #888; margin: 2px;">
-  </div>
-</div>
-
-
-### Connect with me:
+<h1 align="center">Hi, I'm Rituraj Sharma 👋</h1>
+<h3 align="center">Backend-focused Full Stack Developer · Node.js & NestJS Specialist</h3>
 
 <p align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)][skype]
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)][steam]
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord]
-
-[twitter]: https://twitter.com/Rituraj0_0
-[linkedin]: https://www.linkedin.com/in/rituraj-sharma-5b3415222/
-[instagram]: https://www.instagram.com/rituraj0_0/
-[facebook]: https://www.facebook.com/raj0991
-[skype]: skype:live:.cid.d329786a2aaf2972?chat
-[steam]: https://steamcommunity.com/profiles/76561198371861269/
-[discord]: https://discordapp.com/users/dahivada
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+backend+systems;Node.js+%26+NestJS+specialist;MERN+%7C+Java+%7C+Python+%7C+Go&font=Fira%20Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
 </p>
-
-<br />
 
 ---
 
-### Languages and Tools:
+### 🚀 About Me
+
+I'm a backend-focused full stack developer based in Bikaner, Rajasthan, building reliable web applications since 2021. My core strength is **Node.js** and **NestJS**, backed by hands-on experience across the MERN stack, Java Spring Boot, Python (Django/Flask), and Go.
+
+- 🔭 Currently building backend services with **Node.js** and **NestJS**
+- 🌱 Exploring **Go** for high-performance systems
+- 💬 Ask me about Node.js, NestJS, REST APIs, or MongoDB
+- 📫 Reach me through the links below
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raj0991&count_private=true&show_icons=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=raj0991&background=0d1117&border=30363d&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+</p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
+### 🌐 Connect with Me
 
-<br />
-
-### Misc:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj0991&show_icons=true&locale=en&layout=compact" alt="Rituraj Sharma" /></p>
-<br />
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=raj0991&count_private=true&show_icons=true&title_color=333&icon_color=333)
-<br />
-
-![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=raj0991)
-<br />
-
-
-
-
-[vscode]: https://visualstudio.com
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[react]: https://reactjs.org/
-[nodejs]: https://nodejs.org/
-[sql]: https://developer.mozilla.org/en-US/docs/Web/SQL
-[mysql]: https://www.mysql.com/
-[mongodb]: https://www.mongodb.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[terminal]: https://en.wikipedia.org/wiki/Command-line_interface
-[typescript]: https://www.typescriptlang.org/
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/rituraj-sharma-5b3415222/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Rituraj0_0"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rituraj0_0/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
